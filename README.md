@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arsalankhan00
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Front End Devp & Python  
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Gen Ai Projects
 - 📫 How to reach me message me on Linkdin
