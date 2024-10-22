@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Devp & Python  
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Gen Ai Projects
-- 📫 How to reach me message me on Linkdin
+- 📫 You can reach me on Linkdin 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
