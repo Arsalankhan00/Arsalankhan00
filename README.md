@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Gen Ai Projects
 - 📫 You can reach me on Linkdin 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
