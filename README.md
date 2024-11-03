@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Devp & Python & Ai  
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python & Gen Ai Projects
-- 📫 You can reach me on Linkdin 
+- 📫 You can reach me at alikhanarsalan35@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
