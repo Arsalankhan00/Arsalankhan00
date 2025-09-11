@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arsalan Ali Khan
-- 👀 I’m interested in Front End Devlopment,Python & Ai  
+- 👀 I’m interested in Front End Development.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python & Gen Ai Projects
 - 📫 You can reach me at alikhanarsalan35@gmail.com
