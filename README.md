@@ -4,10 +4,12 @@
 </a>
  ---
 
-  I am **Arsalan Ali Khan** a 7th-semester Software Engineering student at the **Virtual University of Pakistan**,
- currently I'm learning Front-End Development. As a passionate learner, I am seeking an
- internship opportunity as a Front-End/Web Developer to apply and grow my skills.
+I am **Arsalan Ali Khan**, a 7th-semester Software Engineering student at the **Virtual University of Pakistan**.  
+Currently, I'm learning **Front-End Development**.  
 
+As a passionate learner, I am seeking an **internship opportunity** as a Front-End/Web Developer to apply and grow my skills.  
+
+---
 
  
 
