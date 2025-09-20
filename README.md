@@ -8,19 +8,15 @@
 I am **Arsalan Ali Khan**, a 7th-semester Software Engineering student at the **Virtual University of Pakistan**.  
 Currently, I'm learning **Front-End Development**.  
 As a passionate learner, I am seeking an **internship opportunity** as a Front-End/Web Developer to apply and grow my skills.
- 
+ <hr style="border: 0.5px solid #ccc; width: 60%; margin: 20px auto;" />
 
 
-<!---
-Arsalankhan00/Arsalankhan00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ## Skills 🛠️:
 
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/arhamansari11/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css3,,bootstrap,js,python,git,github,githubcopilot,vscode,vercel,slack,discord,chatgpt,gemini,perplexity" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,bootstrap,js,python,git,github,githubcopilot,vscode,vercel,slack,discord,chatgpt,gemini,perplexity" />
 </p>
 </a>
 
