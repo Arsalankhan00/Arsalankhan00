@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
  ## Connect with me🤝:
 <div align="center">
    <!-- <a href="https://muhammad-ar" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
-    <a href="https://www.linkedin.com/in/arsalan-ali-khan/" target="_blank"><img src="(https://img.shields.io/badge/-Arsalan%20Ali%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-ali-khan/)"/></a>
+    <a href="https://www.linkedin.com/in/arsalan-ali-khan/" target="_blank"><img src="(https://img.shields.io/badge/-Arsalan%20Ali%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white)]"/></a>
     <a target="_blank" href="alikhanarsalan35@gmail.com"><img src="https://img.shields.io/badge/-alikhanarsalan35@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </div>
 
