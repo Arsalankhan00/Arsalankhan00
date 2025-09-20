@@ -15,7 +15,7 @@ As a passionate learner, I am seeking an **internship opportunity** as a Front-E
 Arsalankhan00/Arsalankhan00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## My Skill Set 🛠️:
+## Skills 🛠️:
 
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/arhamansari11/">
