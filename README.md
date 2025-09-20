@@ -1,3 +1,7 @@
+
+  <a href="https://github.com/Arsalankhan00">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Arsalankhan00&data=followers,repositories,stars,commits&theme=rgb%22">
+</a>
 - 👋 Hi, I’m @Arsalan Ali Khan
 - 👀 I’m interested in Front End Development.
 - 🌱 I’m currently learning JS & React.
