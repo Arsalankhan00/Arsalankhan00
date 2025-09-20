@@ -21,3 +21,16 @@ You can click the Preview link to take a look at your changes.
   <img src="https://skills.syvixor.com/api/icons?i=html,css3,,bootstrap,js,python,git,github,githubcopilot,vscode,vercel,slack,discord,chatgpt,gemini,perplexity" />
 </p>
 </a>
+
+ ## Connect with me🤝:
+<div align="center">
+   <!-- <a href="https://muhammad-ar" target="_blank"><img src="https://img.shields.io/badge/-muhammad--arham.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>-->
+    <a href="https://www.linkedin.com/in/arsalan-ali-khan/" target="_blank"><img src="https://img.shields.io/badge/-Arham%20Ansari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="alikhanarsalan35@gmail.com"><img src="https://img.shields.io/badge/-alikhanarsalan35@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
+
+
+<a href="https://github.com/Arsalankhan00/">
+<h1 align="left"> <a href="https://github.com/Arsalankhan00/"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eDhhbTRjY2s0dTN6eDAzdDZtcTUzNnNoajJsN2J0Y2RsdnVwMG15eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VHkcPj2kWye7EMgkrV/giphy.gif" width="50px">
+</a>
+
