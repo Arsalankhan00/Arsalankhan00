@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 > Tools, languages, and other things I am working with.
 <a href="https://github.com/arhamansari11/">
 <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css3,,bootstrap,js,python,git,github,githubcopilot,vscode,vercel,slack,discord,chatgpt,gemini,perpelexity" />
+  <img src="https://skills.syvixor.com/api/icons?i=html,css3,,bootstrap,js,python,git,github,githubcopilot,vscode,vercel,slack,discord,chatgpt,gemini,perplexity" />
 </p>
 </a>
