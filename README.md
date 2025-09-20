@@ -1,13 +1,13 @@
 
   <a href="https://github.com/Arsalankhan00">
     <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Arsalankhan00&data=followers,repositories,stars,commits&theme=rgb%22">
-</a> ---
- 
+</a> 
+---
 
-I am **Arsalan Ali Khan**, a 7th-semester Software Engineering student at the **Virtual University of Pakistan**.  
+<p>I am **Arsalan Ali Khan**, a 7th-semester Software Engineering student at the **Virtual University of Pakistan**.  
 Currently, I'm learning **Front-End Development**.  
 
-As a passionate learner, I am seeking an **internship opportunity** as a Front-End/Web Developer to apply and grow my skills.  
+As a passionate learner, I am seeking an **internship opportunity** as a Front-End/Web Developer to apply and grow my skills.</p>  
 
  
 
